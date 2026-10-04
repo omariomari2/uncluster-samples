@@ -1,21 +1,20 @@
-[Immigration Assistant Interface for TFR Hackathon](https://webpager.onrender.com/) <br> 
+# Website work and references
 
-[Go-Shop Interface 1](https://goshopghana.com/) <br>
-[Go-Shop Interface 2](https://ems-woad-kappa.vercel.app/)<br>
+A collection of website links associated with interface and conversion work.
+These links include different versions and collaborative work. They do not imply sole authorship or permission to reuse client assets.
 
-[Plaza Interface 1](https://veo-18a6.onrender.com/) <br> 
-[Plaza Interface 2](https://omariomari2.github.io/EMS/) <br>
+## Application interfaces
 
-[Orda Rides](https://www.ordarides.com/) <br>
+- [Immigration Assistant](https://webpager.onrender.com/)
+- [Go-Shop](https://goshopghana.com/) and [another interface version](https://ems-woad-kappa.vercel.app/)
+- [Plaza interface](https://veo-18a6.onrender.com/) and [earlier version](https://omariomari2.github.io/EMS/)
+- [Orda Rides](https://www.ordarides.com/)
 
-[CMC Conference 2026 Final](https://seminar.cmc-ghana.com) <br> 
-[CMC Conference 2026 Interface 1](https://conference-qbav.onrender.com/) <br> 
+## Event and organization websites
 
-[Ghana Naimos](https://dog-x7wp.onrender.com/) <br>
+- [CMC Conference](https://seminar.cmc-ghana.com) and [earlier interface](https://conference-qbav.onrender.com/)
+- [Ghana Naimos interface](https://dog-x7wp.onrender.com/)
+- [Gdirst Institute](https://gdirst.com/)
 
-[Gdirst Institute Interface](https://gdirst.com/) <br>
-
-
-
-
+External sites can change independently of this repository. Current hosting and reuse rights need confirmation before adapting their content.
 
